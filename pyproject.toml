@@ -1,0 +1,12 @@
+[project]
+name = "mlops-mlflow-experiment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dagshub>=0.6.8",
+    "matplotlib>=3.10.8",
+    "mlflow>=3.10.1",
+    "seaborn>=0.13.2",
+]
